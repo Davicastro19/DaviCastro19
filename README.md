@@ -3,7 +3,7 @@
 
 <p align="center"> <img  heigth="100px" src="https://avatars.githubusercontent.com/u/48842971?v=4" alt="davicastro19" /> </p>
 
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davicastro19" alt="davicastro19" /></a > </p>
+<p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davicastro19" alt="davicastro19" /></a > </p>
 
 - 🌱 Atualmente estou aprendendo **VueJs**
 
