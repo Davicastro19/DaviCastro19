@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Davi</h1>
-<h3 align="center">Um apaixonado desenvolvedor FullStack do Brasil</h3>
+<h3 align="center">Sou um Desenvolvedor FullStack</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=davicastro19&label=Profile%20views&color=0e75b6&style=flat" alt="davicastro19" /> </p>
+<p align="left"> <img src="https://ibb.co/X2RH8GP" alt="davicastro19" /> </p>
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davicastro19" alt="davicastro19" /></a > </p>
 
