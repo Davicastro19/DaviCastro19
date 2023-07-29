@@ -1,6 +1,18 @@
 <h1 align="center">Oi 👋, eu sou o Davi Castro</h1>
 <h3 align="center">Sou um Desenvolvedor FullStack</h3>
-
+  <style>
+        /* Estiliza a borda das imagens */
+        img {
+            border-radius: 50%; /* Valor de 50% torna a borda completamente redonda */
+            border: 20px solid white; /* Adiciona uma borda branca ao redor da imagem */
+        }
+    </style>  <style>
+        /* Estiliza a borda das imagens */
+        img {
+            border-radius: 50%; /* Valor de 50% torna a borda completamente redonda */
+            border: 20px solid white; /* Adiciona uma borda branca ao redor da imagem */
+        }
+    </style>
 <p align="center"> <img  width="300px" border='20px' src="https://avatars.githubusercontent.com/u/48842971?v=4" alt="davicastro19" /> </p>
 
 <p align="center"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davicastro19" alt="davicastro19" /></a > </p>
